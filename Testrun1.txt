@@ -1,2 +1,6 @@
 zinger
+<<<<<<< Updated upstream
 Where my comment gone
+=======
+Whatta cake!
+>>>>>>> Stashed changes
